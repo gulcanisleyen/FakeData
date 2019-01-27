@@ -1,0 +1,13 @@
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\bin\Debug\SahteVeriOluşturma.exe.config
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\bin\Debug\SahteVeriOluşturma.exe
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\bin\Debug\SahteVeriOluşturma.pdb
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\bin\Debug\SahteVeriler.dll
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\bin\Debug\SahteVeriler.pdb
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\obj\Debug\SahteVeriOluşturma.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\obj\Debug\SahteVeriOluşturma.Form1.resources
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\obj\Debug\SahteVeriOluşturma.Properties.Resources.resources
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\obj\Debug\SahteVeriOluşturma.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\obj\Debug\SahteVeriOluşturma.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\obj\Debug\SahteVeriOluşturma.csproj.CopyComplete
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\obj\Debug\SahteVeriOluşturma.exe
+C:\Users\Section2\source\repos\Örnek\SahteVeriOluşturma\obj\Debug\SahteVeriOluşturma.pdb

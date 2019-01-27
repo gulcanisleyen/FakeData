@@ -1,0 +1,6 @@
+C:\Users\Section2\source\repos\Örnek\SahteVeriler\bin\Debug\SahteVeriler.dll
+C:\Users\Section2\source\repos\Örnek\SahteVeriler\bin\Debug\SahteVeriler.pdb
+C:\Users\Section2\source\repos\Örnek\SahteVeriler\obj\Debug\SahteVeriler.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\Örnek\SahteVeriler\obj\Debug\SahteVeriler.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\Örnek\SahteVeriler\obj\Debug\SahteVeriler.dll
+C:\Users\Section2\source\repos\Örnek\SahteVeriler\obj\Debug\SahteVeriler.pdb
